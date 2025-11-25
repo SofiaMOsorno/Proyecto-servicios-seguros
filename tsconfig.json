@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "strict": true,
+    "target": "ES2022",
+    "moduleResolution": "nodenext",
+    "module": "NodeNext",
+    "esModuleInterop": true,
+    "outDir": "dist",
+    "rootDir": "src",
+    "types": ["jest", "node"],
+    "typeRoots": ["./src/types", "./node_modules/@types"],
+    "isolatedModules": true
+  },
+  "include": [
+    "src/**/*.ts",
+    "src/types/**/*.d.ts"
+  ]
+}
