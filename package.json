@@ -57,5 +57,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SofiaMOsorno/Proyecto-servicios-seguros.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SofiaMOsorno/Proyecto-servicios-seguros/issues"
+  },
+  "homepage": "https://github.com/SofiaMOsorno/Proyecto-servicios-seguros#readme",
   "description": ""
 }
